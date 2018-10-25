@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/sciant/wt-hotel-manager/issues"
   },
-  "homepage": "https://github.com/sciant/wt-hotel-manager#readme"
+  "homepage": "https://github.com/sciant/wt-hotel-manager#readme",
+  "dependencies": {
+    "eth-ecies": "^1.0.3",
+    "web3": "^1.0.0-beta.36"
+  }
 }
