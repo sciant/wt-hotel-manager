@@ -1,0 +1,19 @@
+{
+  "name": "wt-hotel-manager",
+  "version": "1.0.0",
+  "description": "Hotel manager tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sciant/wt-hotel-manager.git"
+  },
+  "author": "Sciant",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/sciant/wt-hotel-manager/issues"
+  },
+  "homepage": "https://github.com/sciant/wt-hotel-manager#readme"
+}
